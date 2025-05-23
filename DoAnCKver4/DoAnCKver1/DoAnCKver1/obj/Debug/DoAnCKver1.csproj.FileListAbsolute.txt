@@ -1,0 +1,90 @@
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe.config
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.pdb
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.AssemblyReference.cache
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.Properties.Resources.resources
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.GenerateResource.cache
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.CoreCompileInputs.cache
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.exe
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.pdb
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.LoginForm.resources
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.ForgotForm.resources
+D:\Dự phòng\Winform\DoAnCK\Ver1\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.RegisterForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe.config
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.pdb
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.AssemblyReference.cache
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.ForgotForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.LoginForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.Properties.Resources.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.RegisterForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.GenerateResource.cache
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.CoreCompileInputs.cache
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.exe
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.pdb
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.AdminForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.EmployeeForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe.config
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.pdb
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.AssemblyReference.cache
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.AdminForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.EmployeeForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.ForgotForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.LoginForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.Properties.Resources.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.RegisterForm.resources
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.GenerateResource.cache
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.CoreCompileInputs.cache
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.exe
+D:\Dự phòng\Winform\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.pdb
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe.config
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.pdb
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.AssemblyReference.cache
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.AdminForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.EmployeeForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.ForgotForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.LoginForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.Properties.Resources.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.RegisterForm.resources
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.GenerateResource.cache
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.CoreCompileInputs.cache
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.exe
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.pdb
+D:\HK5\Lap_Trinh_Tren_Window\CuoiKi\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerDetailsForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe.config
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.pdb
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.AssemblyReference.cache
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.AdminForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerDetailsForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.EmployeeForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.ForgotForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.LoginForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.Properties.Resources.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.RegisterForm.resources
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.GenerateResource.cache
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.CoreCompileInputs.cache
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.exe
+D:\Dự phòng\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.pdb
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe.config
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.exe
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\bin\Debug\DoAnCKver1.pdb
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.AdminForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerDetailsForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.CustomerForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.EmployeeForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.ForgotForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.LoginForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.Properties.Resources.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.RegisterForm.resources
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.exe
+C:\Users\PC\Desktop\MONHOC\Winform\DoAnCKver1_5\DoAnCKver4\DoAnCKver1\DoAnCKver1\obj\Debug\DoAnCKver1.pdb
